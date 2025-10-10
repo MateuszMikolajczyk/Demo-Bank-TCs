@@ -1,9 +1,10 @@
-# Valid_Login_To_Application
+# Valid login to application
 
-**ID**: TCS001  
+**ID**: TCSL001  
 **Title**: Successful login with valid credentials to Demobank application  
-**Preconditions**: User exists with credentials Id: Demotest, Password: Demotest
-**Steps**:
+**Preconditions**: User exists with credentials Id: Demotest, Password: Demotest    
+
+**Steps**:  
 
 1. Open login page via link https://demo-bank.vercel.app/
 2. Enter valid id and password
