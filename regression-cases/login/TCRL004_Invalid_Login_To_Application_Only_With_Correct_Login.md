@@ -7,7 +7,7 @@
 **Steps**:
 
 1. Open login page via link https://demo-bank.vercel.app/
-2. Enter valid id and leave password empty
+2. Type in valid id and leave password empty
 3. Click "Login" button
 
 **Expected result**: User stays on login page and login button is unclickable.

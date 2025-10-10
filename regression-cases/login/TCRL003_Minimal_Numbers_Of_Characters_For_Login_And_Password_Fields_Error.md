@@ -7,8 +7,8 @@
 **Steps**:
 
 1. Open login page via link https://demo-bank.vercel.app/
-2. Type in login input seven random characters
-3. Type in password input seven random
+2. Type in in login input seven random characters
+3. Type in in password input seven random
    characters
 4. Click on login button
 

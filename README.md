@@ -16,3 +16,5 @@ Test coverage:
    - TCRL003_Minimal_Numbers_Of_Characters_For_Login_And_Password_Fields_Error
    - TCRL004_Invalid_Login_To_Application_Only_with_correct_login copy
    - TCRL005_Invalid_Login_To_Application_Only_with_correct_password
+   - TCRL006_Valid_Login_To_Application_Using_Quwerty
+   - TCRL007_Valid_Login_And_Password_Tooltips
