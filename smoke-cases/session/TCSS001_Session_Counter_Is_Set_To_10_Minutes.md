@@ -1,6 +1,6 @@
 # Session counter is set to 10 minutes
 
-**ID**: TCRS002  
+**ID**: TCSS001  
 **Title**: Session counter for user is set to 10 minutes  
 **Preconditions**: User exists with credentials Id: Demotest, Password: Demotest
 
