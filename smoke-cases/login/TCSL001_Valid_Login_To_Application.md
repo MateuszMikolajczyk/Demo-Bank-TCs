@@ -10,4 +10,4 @@
 2. Type in valid id and password
 3. Click "Login" button
 
-**Expected result**: User is redirected to user dashboard
+**Expected result**: User is redirected to user dashboard.

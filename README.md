@@ -2,19 +2,41 @@
 
 Repo contains Test Cases for Demo Bank site https://demo-bank.vercel.app/
 
-Test coverage:
+---
 
-1. Smoke TCs
-   a) Login Page
+## **Test coverage:**
 
-   - TCSL001_Valid_Login_To_Application
+### 1. Smoke TCs
 
-2. Regression TCs
-   a) Login Page
-   - TCRL001_Blocked_Login_Button_With_Empty_Inputs
-   - TCRL002_Mandatory_Login_And_Password_Fields_Error
-   - TCRL003_Minimal_Numbers_Of_Characters_For_Login_And_Password_Fields_Error
-   - TCRL004_Invalid_Login_To_Application_Only_with_correct_login copy
-   - TCRL005_Invalid_Login_To_Application_Only_with_correct_password
-   - TCRL006_Valid_Login_To_Application_Using_Quwerty
-   - TCRL007_Valid_Login_And_Password_Tooltips
+**a) Login Page**
+
+- TCSL001_Valid_Login_To_Application
+
+**b) session**
+
+- TCSS001_Session_Counter_Is_Set_To_10_Minutes
+
+**c) sidebar**
+
+- TCSSB001_Sidebar_Menu_Items_Move_To_Proper_Views
+
+### 2. Regression TCs
+
+**a) Login Page**
+
+- TCRL001_Blocked_Login_Button_With_Empty_Inputs
+- TCRL002_Mandatory_Login_And_Password_Fields_Error
+- TCRL003_Minimal_Numbers_Of_Characters_For_Login_And_Password_Fields_Error
+- TCRL004_Invalid_Login_To_Application_Only_with_correct_login copy
+- TCRL005_Invalid_Login_To_Application_Only_with_correct_password
+- TCRL006_Valid_Login_To_Application_Using_Quwerty
+- TCRL007_Valid_Login_And_Password_Tooltips
+
+**b) session**
+
+- TCRS001_User_Logged_Out_After_10_Min_Of_Inactivity
+- TCRS002_Extend_The_Session_When_There_Are_30_Sec_Left
+
+**c) sidebar**
+
+- TCRSB001_Sidebar_Menu_Items_Have_Proper_Names

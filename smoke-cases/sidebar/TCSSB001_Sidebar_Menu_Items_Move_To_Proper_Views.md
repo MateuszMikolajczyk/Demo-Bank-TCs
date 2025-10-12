@@ -1,7 +1,7 @@
 # Sidebar menu items move to proper view
 
 **ID**: TCSSB001  
-**Title**: User check if sidebar menu items move to proper views.  
+**Title**: User check if sidebar menu items move to proper views  
 **Preconditions**: User exists with credentials Id: Demotest, Password: Demotest
 
 **Steps**:

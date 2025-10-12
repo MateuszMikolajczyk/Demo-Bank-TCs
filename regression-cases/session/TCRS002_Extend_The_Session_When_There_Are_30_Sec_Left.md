@@ -1,6 +1,6 @@
 # Extend_The_Session_When_Are_30_Seconds_Left
 
-**ID**: TCRS003  
+**ID**: TCRS002  
 **Title**: User extends session when are 30 seconds left  
 **Preconditions**: User exists with credentials Id: Demotest, Password: Demotest
 
