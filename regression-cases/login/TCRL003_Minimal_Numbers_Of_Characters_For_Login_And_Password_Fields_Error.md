@@ -1,7 +1,7 @@
 # Mandatory login and password fields error
 
 **ID**: TCRL003  
-**Title**: User gets error that login and password fields are mandatory when these ones are empty
+**Title**: User gets error that login and password fields are mandatory when these ones are empty  
 **Preconditions**: None
 
 **Steps**:
